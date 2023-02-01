@@ -9,7 +9,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 40px;
-  padding: 60px 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 
@@ -70,7 +71,7 @@
 
 }
 
-@media (max-width:00px) {
+@media (max-width:600px) {
 
   
 
