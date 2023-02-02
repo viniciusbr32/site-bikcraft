@@ -66,13 +66,13 @@
 
 .contato-meios a:nth-child(3) {
 
-  background: url(.../.../img/icones/telefone.svg) no-repeat 0px 2px;
+  background: url(../../../img/icones/telefone.svg) no-repeat 0px 2px;
   margin-bottom: 60px;
 }
 
 .contato-meios a:first-child {
 
-  background: url(.../.../img/icones/email.svg) no-repeat 0px 2px;
+  background: url(../../../img/icones/email.svg) no-repeat 0px 2px;
 }
 
 .contato-redes {
